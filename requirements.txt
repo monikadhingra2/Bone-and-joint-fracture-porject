@@ -1,8 +1,7 @@
-streamlit==1.32.0
-tensorflow==2.15.0
-keras==2.15.0
-numpy==1.24.3
-opencv-python-headless
+streamlit
+torch
+torchvision
+torchaudio
+numpy
+pandas
 Pillow
-scikit-learn
-matplotlib
